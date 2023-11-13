@@ -1,5 +1,5 @@
 # Password-Generator-GUI
-A simple password generator program implemented in Python using customtkinter library for the graphical user interface. The program allows users to generate strong and secure passwords based on their preferences.
+A simple password generator program implemented in Python using [customtkinter by TomSchimansky](https://github.com/TomSchimansky/CustomTkinter) for the graphical user interface. The program allows users to generate strong and secure passwords based on their preferences.
 
 ## Features:
 **•Password Length Slider:** Adjust the length of the password using a slider control.
