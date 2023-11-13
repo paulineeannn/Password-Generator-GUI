@@ -9,5 +9,5 @@ A simple password generator program implemented in Python using customtkinter li
 **•Copy to Clipboard:** Copy the generated password to the clipboard for easy use.
 
 ## Screenshots:
-![image](https://github.com/paulineeannn/Password-Generator-GUI/assets/89290130/04213ac3-619f-4ea4-802b-2d3c8682fce1)
-![image](https://github.com/paulineeannn/Password-Generator-GUI/assets/89290130/92ecb82f-8bd0-4145-9c13-f5f73d12f86a)
+![Screenshot of Home Page](https://github.com/paulineeannn/Password-Generator-GUI/assets/89290130/2c47e12d-268d-4c6c-930b-5271dae6341e)
+![Screenshot of Generated Password Page](https://github.com/paulineeannn/Password-Generator-GUI/assets/89290130/bff03d07-fc85-4392-8d25-00f81d4a637c)
